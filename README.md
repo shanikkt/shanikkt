@@ -1,4 +1,4 @@
-<img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsV3FIXMHbu9pErXm6_z2IKxpJg5iilcFrsA&s](https://media.licdn.com/dms/image/v2/C4D16AQHUal8WW4IWiQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1645717630972?e=2147483647&v=beta&t=lrufx54U6TvaeAW9WgmChyi4PfPAikaNW2XRI9qryaU)" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIaU9K2PNwJyY4bFNkE8xAdiqWqAeduZ-8xQ&s"/>
 <h1 align="center">Hi 👋, I'm Shani Sonkar</h1>
 <h3 align="center">An IP NOC ENGINEER</h3>
 <img align="right" width="400px" src="https://www.cdipits.com/public/uploads/service-4.gif"/>
