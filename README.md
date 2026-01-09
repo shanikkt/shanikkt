@@ -1,6 +1,6 @@
 <img src="https://technowebsolutions.in/wp-content/uploads/2019/05/software-development-banner-1-1500x450.jpg" />
 <h1 align="center">Hi 👋, I'm Shani Sonkar</h1>
-<h3 align="center">AN IP NOC ENGINEER</h3>
+<h3 align="center">An IP NOC ENGINEER</h3>
 <img align="right" width="400px" src="https://www.cdipits.com/public/uploads/service-4.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanikkt&label=Profile%20views&color=0e75b6&style=flat" alt="shanikkt" /> </p>
