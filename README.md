@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working in Tech Mahindra Pvt Ltd, Gurugram, Haryana, India
+- 🔭 I’m currently working at Tech Mahindra Pvt Ltd, Gurugram, Haryana, India
 
-- 🌱 I’m currently learning **Kuberentes**
+- 🌱 I’m currently learning **Kubernetes**
 
 - 👨‍💻 All of my projects are available at [https://shanikkt.github.io/](https://shanikkt.github.io/)
 
