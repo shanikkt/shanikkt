@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanikkt&label=Profile%20views&color=0e75b6&style=flat" alt="shanikkt" /> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/this-is-shani-sonkar/" target="blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc_ly53Sxy2Ge8qkrvXmG447r3ZAl_Hrdufg&s style="width: 50px" alt="" /></a> </p>
-
 - 🔭 I’m currently working at Tech Mahindra Pvt Ltd, Gurugram, Haryana, India
 
 - 🌱 I’m currently learning **Kubernetes**
