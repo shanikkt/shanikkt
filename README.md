@@ -1,4 +1,3 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIaU9K2PNwJyY4bFNkE8xAdiqWqAeduZ-8xQ&s" style="width: full; border: 2px solid black;" />
 <h1 align="center">Hi 👋, I'm Shani Sonkar</h1>
 <h3 align="center">An IP NOC ENGINEER</h3>
 <img align="right" width="400px" src="https://www.cdipits.com/public/uploads/service-4.gif"/>
