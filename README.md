@@ -1,6 +1,6 @@
 <img src="https://technowebsolutions.in/wp-content/uploads/2019/05/software-development-banner-1-1500x450.jpg" />
 <h1 align="center">Hi 👋, I'm Shani Sonkar</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">AN IP NOC ENGINEER</h3>
 <img align="right" width="400px" src="https://www.cdipits.com/public/uploads/service-4.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanikkt&label=Profile%20views&color=0e75b6&style=flat" alt="shanikkt" /> </p>
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://shanikkt.github.io/](https://shanikkt.github.io/)
 
-- 💬 Ask me about **React, Mern Stack, JS, HTML, CSS, Node JS, Vanila**
+- 💬 Ask me about **Linux, Kubernetes,TCP/IP, DNS, DHCP, VLANs, React, Mern Stack, JS, HTML, CSS, Node JS**
 
 - 📫 How to reach me **shanikkt1998@gmail.com**
 
